@@ -1,0 +1,92 @@
+.Principal .Encabezado {
+    width: 90%;
+    height: 144px;
+    margin-left: 5%;
+    background-color: #019BD3;
+    color: #E5EA28;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+    font-size: 79px;
+    line-height: 126px;
+    border-radius: 12px;
+}
+.Principal .Contenido {
+    width: 90%;
+    height: 587px;
+    margin-top: 15px;
+    margin-left: 5%;
+    background-color: #019BD3;
+    padding-top: 15px;
+    border-radius: 12px;
+}
+.Principal .Contenido .ArticuloUno {
+    width: 47%;
+    height: 270px;
+    background-color: #E5EA28;
+    margin-left: 2%;
+    padding-left: 6px;
+    float: left;
+    clear: left;
+    border-radius: 12px;
+}
+.Principal .Contenido .ArticuloDos {
+    width: 44%;
+    height: 175px;
+    float: right;
+    background-color: #E5EA28;
+    margin-right: 2%;
+    padding-left: 4px;
+    border-radius: 12px;
+}
+.Principal .Contenido .ArticuloTres {
+    width: 44%;
+    height: 175px;
+    background-color: #E5EA28;
+    margin-right: 2%;
+    margin-top: 20px;
+    padding-left: 4px;
+    float: right;
+    clear: right;
+    border-radius: 12px;
+}
+.Principal .Contenido .ArticuloCuatro {
+    width: 44%;
+    height: 175px;
+    background-color: #E5EA28;
+    float: right;
+    clear: right;
+    margin-top: 20px;
+    margin-right: 2%;
+    padding-left: 4px;
+    border-radius: 12px;
+}
+.Principal .Contenido .ArticuloCinco {
+    width: 47%;
+    height: 270px;
+    background-color: #E5EA28;
+    margin-left: 2%;
+    margin-top: -75px;
+    padding-left: 4px;
+    clear: left;
+    float: left;
+    border-radius: 12px;
+}
+.Principal .EncabezadoDos {
+    width: 90%;
+    height: 70px;
+    background-color: #019BD3;
+    margin-left: 5%;
+    margin-top: 12px;
+    font-size: 27px;
+    line-height: 79px;
+    color: #E5EA28;
+    text-align: center;
+    padding-bottom: 8px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    border-radius: 12px;
+}
+.Principal .Derechos {
+    text-align: center;
+    margin-top: 7px;
+
+}
